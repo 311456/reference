@@ -12,6 +12,8 @@ Vue 是一套用于构建用户界面的渐进式框架
 
 - [Vue 2.x 官方文档](https://v2.cn.vuejs.org/)
 - [Vue Router 3.x 官方文档](https://v3.router.vuejs.org/)
+- [Vuex 官方文档](https://vuex.vuejs.org/zh/)
+- [Element UI 官方文档](https://element.eleme.io/#/zh-CN)
 <!--rehype:className=style-round-->
 
 注意：Vue 2.x 版本对应 Vue Router 3.x 路由版本
